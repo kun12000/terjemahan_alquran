@@ -6,18 +6,17 @@
 Agama Republik Indonesia, diambil dari QuranEnc.com (Indonesian
 Translation – Ministry of Religious Affairs), versi 1.0.1.
 
-Isi: 114 surah, 6.236 ayat. Teks terjemahan dan catatan kaki dimuat
+<b>Isi:</b> 114 surah, 6.236 ayat. Teks terjemahan dan catatan kaki dimuat
 apa adanya tanpa perubahan. Angka kecil berwarna di atas baris
 menunjuk ke catatan kaki dengan nomor yang sama di bawah ayat
 tersebut.
 
-Catatan: Buku ini hanya memuat terjemahan dan tidak memuat teks
+<b>Catatan:</b> Buku ini hanya memuat terjemahan dan tidak memuat teks
 Arab Al-Qur’an. Terjemahan tidak dapat menggantikan Al-Qur’an dalam
 bahasa aslinya. Untuk memahami makna secara mendalam, rujuklah
 juga tafsir dan para ulama.
 
-Hak cipta: Isi terjemahan adalah milik penerbitnya. Pemuatan ulang
+<b>Hak cipta:</b> Isi terjemahan adalah milik penerbitnya. Pemuatan ulang
 mengikuti ketentuan QuranEnc.com
-
 (https://quranenc.com/en/home/api): tidak diubah, mencantumkan
 penerbit dan sumber, serta men
