@@ -2,7 +2,7 @@
 [Download PDF](https://github.com/kun12000/terjemahan_alquran/raw/main/v5_Al-Quran_Terjemahan_Indonesia_Kemenag.pdf)
 
 ## Keterangan
-Sumber terjemahan: Al-Qur’an dan Terjemahannya, Kementerian
+<b>Sumber terjemahan:<b/> Al-Qur’an dan Terjemahannya, Kementerian
 Agama Republik Indonesia, diambil dari QuranEnc.com (Indonesian
 Translation – Ministry of Religious Affairs), versi 1.0.1.
 
